@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract_Design_Factory/Abstract_Design_Factory.iml" filepath="$PROJECT_DIR$/Abstract_Design_Factory/Abstract_Design_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command_Design_Pattern/Command_Design_Pattern.iml" filepath="$PROJECT_DIR$/Command_Design_Pattern/Command_Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory_Design_Pattern/Factory_Design_Pattern.iml" filepath="$PROJECT_DIR$/Factory_Design_Pattern/Factory_Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Low-Level-Design.iml" filepath="$PROJECT_DIR$/.idea/Low-Level-Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Low_Level_Design_Document_Editor/Low_Level_Design_Document_Editor.iml" filepath="$PROJECT_DIR$/Low_Level_Design_Document_Editor/Low_Level_Design_Document_Editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer_Pattern/Observer_Pattern.iml" filepath="$PROJECT_DIR$/Observer_Pattern/Observer_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton_Design_Pattern/Singleton_Design_Pattern.iml" filepath="$PROJECT_DIR$/Singleton_Design_Pattern/Singleton_Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy_Design_Pattern/Strategy_Design_Pattern.iml" filepath="$PROJECT_DIR$/Strategy_Design_Pattern/Strategy_Design_Pattern.iml" />
+    </modules>
+  </component>
+</project>
